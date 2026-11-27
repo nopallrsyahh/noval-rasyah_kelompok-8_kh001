@@ -1,0 +1,10 @@
+{
+  "appTitle": "Direktori Mahasiswa",
+  "detailTitle": "Detail Pengguna",
+  "email": "Email",
+  "city": "Kota",
+  "language": "Bahasa",
+  "errorMessage": "Gagal untuk mengambil data.",
+  "retry": "Coba Lagi",
+  "noData": "Tidak ada data pengguna yang tersedia."
+}
